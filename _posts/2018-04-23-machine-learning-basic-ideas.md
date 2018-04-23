@@ -10,7 +10,11 @@ date: 2018-04-23
   
     - Prediction: (Continuous Y)
     
-    [linear regression](), [splines](), [k-nearest neighbors]()
+      - [linear regression]()
+      
+      - [splines]()
+      
+      - [k-nearest neighbors]()
     
     - Classification: (Discrete Y)
     
