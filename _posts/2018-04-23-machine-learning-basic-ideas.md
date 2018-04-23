@@ -18,14 +18,22 @@ date: 2018-04-23
     
     - Classification: (Discrete Y)
     
-    [logistic regression](), [linear discriminant analysis](), [decision trees](), [forests](), [boosting]()
+      - [logistic regression]()
+      
+      - [linear discriminant analysis]()
+      
+      - [decision trees]()
+      
+      - [forests]()
+      
+      - [boosting]()
     
   - Unsuperised Learning (Structure)
   
     - Dimension Reduction:
     
-    [PCA]()
+      - [PCA]()
     
     - Clustering:
     
-    [Clustering]()
+      - [Clustering]()
