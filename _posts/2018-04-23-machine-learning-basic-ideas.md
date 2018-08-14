@@ -10,7 +10,7 @@ date: 2018-04-23
   
     - Prediction: (Continuous Y)
     
-      - [linear regression](2018-08-14-Linear-Regression.md)
+      - [linear regression](machine-learning-linear-regression)
           
       - [splines]()
       
