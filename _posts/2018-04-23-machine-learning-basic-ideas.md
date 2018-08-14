@@ -11,8 +11,10 @@ date: 2018-04-23
     - Prediction: (Continuous Y)
     
       - [linear regression]()
+      - Just a test 0 0
      
-      - <embed src="https://Rachel-LANG.github.io/pdf/linear-regression.pdf" type="application/pdf" />
+     
+      <embed src="https://Rachel-LANG.github.io/pdf/linear-regression.pdf" type="application/pdf" />
       
       - [splines]()
       
