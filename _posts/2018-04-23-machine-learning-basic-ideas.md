@@ -10,7 +10,7 @@ date: 2018-04-23
   
     - Prediction: (Continuous Y)
     
-      - [linear regression](machine-learning-linear-regression)
+      - [linear regression](https://rachel-lang.github.io/blog/2018/08/14/machine-learning-linear-regression)
           
       - [splines]()
       
