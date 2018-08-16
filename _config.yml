@@ -1,4 +1,4 @@
-highlighter: rouge
 name: Rachel Lang, CMU MSCF
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+highlighter: rouge
