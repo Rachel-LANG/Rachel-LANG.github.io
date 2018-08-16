@@ -1,20 +1,23 @@
 ---
 layout: post
-title: "Data Structure - Array"
-date: 2018-05-27
+title: "Data Structure - Stack"
+date: 2018-08-16
 ---
 
 ## Basic knowledge
 
-An array is a collection of items stored at continuous memory locations. The idea is to store multiple items of same type together. Array is call by rank (position).
+A stack is an abstract data type that serves as a collection of elements, with two principal operations: push and pop (LIFO, Last In First Out).
 
-## Advantages
+## Implementation
 
-- Arrays allow random access of elements. This makes accessing elements by position faster.
+Interface matters.
 
-## Array in C/C++
+- [Array](https://rachel-lang.github.io/blog/2018/05/27/Data-Structure-Array)
+- Linked List
 
-- Declaration
+## Application
+
+- Expression evaluation and syntax parsing
 
 ```cpp
 // Array declaration by specifying size
