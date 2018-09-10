@@ -24,6 +24,7 @@ int arr[] = {10, 20, 30, 40}
 // Array declaration by specifying size and initializing elements 
 int arr[6] = {10, 20, 30, 40} // default 0
 ```
+
 - Access elements: By an integer index. No index out of bound.
 
 ## Array in Python
